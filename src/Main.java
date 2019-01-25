@@ -21,7 +21,9 @@ public class Main {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        String fileName = br.readLine();
+        //String fileName = br.readLine();
+
+        String fileName = "dane120";
 
         String path = "C:\\Users\\Wiktor\\IdeaProjects\\Komwojazer\\" + fileName + ".txt";
 
